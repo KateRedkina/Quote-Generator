@@ -1,4 +1,4 @@
-[
+const localQuotes = [
         {
             "text": "Today is the tomorrow we worried about yesterday.",
             "author": "Anonymous",
